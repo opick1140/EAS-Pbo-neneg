@@ -13,7 +13,7 @@ products = [
     {"id": 7, "name": "Sepatu Sneakers", "price": 250000, "image": "sneakers.jpg"},
     {"id": 8, "name": "Topi Baseball", "price": 90000, "image": "topi.jpg"},
     {"id": 9, "name": "Tas Ransel", "price": 300000, "image": "ransel.jpg"},
-    {"id": 10, "name": "Jam Tangan", "price": 500000, "image": "statice/.baju.jpg"},
+    {"id": 10, "name": "Jam Tangan", "price": 500000, "image": "jam.jpg"},
 ]
 
 @app.route('/')
